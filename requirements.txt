@@ -1,0 +1,9 @@
+# ==============================================================================
+# SURA Citas Bot - Dependencias de Producción y Empaquetado Multiplataforma
+# ==============================================================================
+
+# Automatización de navegador para interacción con EPS SURA
+playwright>=1.40.0
+
+# Empaquetador nativo para generar binarios independientes (.exe / .app)
+pyinstaller>=6.3.0
